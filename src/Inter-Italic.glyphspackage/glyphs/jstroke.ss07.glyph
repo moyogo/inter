@@ -10,7 +10,7 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-ref = uni0249.ccmp;
+ref = jstroke.ccmp;
 },
 {
 pos = (50,0);
@@ -25,7 +25,7 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-ref = uni0249.ccmp;
+ref = jstroke.ccmp;
 },
 {
 pos = (48,0);
@@ -40,7 +40,7 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-ref = uni0249.ccmp;
+ref = jstroke.ccmp;
 },
 {
 pos = (16,0);
@@ -55,7 +55,7 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-ref = uni0249.ccmp;
+ref = jstroke.ccmp;
 },
 {
 pos = (58,0);
@@ -70,7 +70,7 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-ref = uni0249.ccmp;
+ref = jstroke.ccmp;
 },
 {
 pos = (29,0);
@@ -85,7 +85,7 @@ name = ital_gen;
 shapes = (
 {
 alignment = 1;
-ref = uni0249.ccmp;
+ref = jstroke.ccmp;
 },
 {
 pos = (75,0);

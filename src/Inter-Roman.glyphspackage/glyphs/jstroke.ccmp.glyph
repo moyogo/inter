@@ -1,5 +1,5 @@
 {
-glyphname = uni0249.ccmp;
+glyphname = jstroke.ccmp;
 kernLeft = t;
 kernRight = t;
 layers = (
@@ -7,15 +7,14 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (73,-457);
+pos = (241,-457);
 },
 {
 name = top;
-pos = (391,1118);
+pos = (298,1118);
 }
 );
-layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
-name = ital_gen;
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
 alignment = -1;
@@ -23,25 +22,24 @@ pos = (50,0);
 ref = jdotless;
 },
 {
-pos = (-191,-150);
+pos = (-165,-150);
 ref = _part.crossbar_narrow;
 }
 );
-width = 590;
+width = 589;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (165,-398);
+pos = (324,-398);
 },
 {
 name = top;
-pos = (475,1118);
+pos = (383,1118);
 }
 );
-layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
-name = ital_gen;
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
 alignment = -1;
@@ -49,25 +47,24 @@ pos = (80,0);
 ref = jdotless;
 },
 {
-pos = (-160,-135);
+pos = (-137,-135);
 ref = _part.crossbar_narrow;
 }
 );
-width = 763;
+width = 767;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (8,-442);
+pos = (173,-442);
 },
 {
 name = top;
-pos = (295,1118);
+pos = (202,1118);
 }
 );
-layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
-name = ital_gen;
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 alignment = -1;
@@ -75,25 +72,24 @@ pos = (-25,0);
 ref = jdotless;
 },
 {
-pos = (-249,-163);
+pos = (-222,-163);
 ref = _part.crossbar_narrow;
 }
 );
-width = 410;
+width = 409;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (49,-460);
+pos = (213,-460);
 },
 {
 name = top;
-pos = (357,1056);
+pos = (270,1056);
 }
 );
-layerId = m008;
-name = ital_gen;
+layerId = m007;
 shapes = (
 {
 alignment = -1;
@@ -101,7 +97,7 @@ pos = (59,0);
 ref = jdotless;
 },
 {
-pos = (-203,-151);
+pos = (-178,-151);
 ref = _part.crossbar_narrow;
 }
 );
@@ -111,15 +107,14 @@ width = 561;
 anchors = (
 {
 name = bottom;
-pos = (135,-398);
+pos = (288,-398);
 },
 {
 name = top;
-pos = (436,1056);
+pos = (348,1056);
 }
 );
-layerId = m010;
-name = ital_gen;
+layerId = m009;
 shapes = (
 {
 alignment = -1;
@@ -127,25 +122,24 @@ pos = (60,0);
 ref = jdotless;
 },
 {
-pos = (-172,-151);
+pos = (-148,-151);
 ref = _part.crossbar_narrow;
 }
 );
-width = 695;
+width = 694;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (9,-442);
+pos = (169,-442);
 },
 {
 name = top;
-pos = (286,1056);
+pos = (198,1056);
 }
 );
-layerId = m012;
-name = ital_gen;
+layerId = m011;
 shapes = (
 {
 alignment = -1;
@@ -153,11 +147,11 @@ pos = (35,0);
 ref = jdotless;
 },
 {
-pos = (-188,-163);
+pos = (-162,-163);
 ref = _part.crossbar_narrow;
 }
 );
-width = 398;
+width = 396;
 }
 );
 metricRight = "=|t";
